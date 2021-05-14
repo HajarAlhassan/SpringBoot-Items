@@ -1,0 +1,43 @@
+
+        li::selection{
+            background-color: gray;
+         
+        }
+        .remove{
+            text-decoration: line-through;
+            background-color: red;
+            color: white;
+        }  
+       
+
+h2{
+    font-family:'Reggae One',serif;
+}
+form{
+    padding-top: 50px;
+    width: 600px;
+    height: 380px; 
+    margin: auto;
+    background-color: rgb(235, 224, 195);
+    margin-top: 100px;
+}
+#itemlable{
+    font-weight: bold;
+    margin-left:50px;
+    
+    
+   
+}
+legend{
+    font-weight: bold;
+    
+}
+fieldset{
+  
+    width: 520px;
+    background-color: rgb(231, 225, 210);
+    margin: auto;
+    }
+
+.pic{
+margin-top:2px}
